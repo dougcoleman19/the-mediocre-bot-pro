@@ -1,0 +1,3 @@
+Description: Get random quote from The Mediocre Gamer
+
+Formatting: Type !quote to get a random quote from The Mediocre Gamer while streaming.

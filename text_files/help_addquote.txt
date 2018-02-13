@@ -1,0 +1,3 @@
+Description: Add a quote that you've heard from The Mediocre Gamer into the database.
+
+Formatting: You call the command by typing !addquote <quote>. The bot handles the rest. So if you type "!addquote The Mediocre Gamer is the greatest!" it will add that quote along with your username and the date you've added it.

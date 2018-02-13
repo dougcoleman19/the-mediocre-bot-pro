@@ -1,0 +1,8 @@
+Description: Roll a series of dice and add modifiers. Best for RPG stuff. Or you can use it if you just want to have fun. Nerd.'
+
+Formatting: The best way to call the command is !roll xxdyyy(zz) with x = number of dice (max 2 digits), y = sides of dice (max 3 digits), and z = any modifiers you may have. Example 2d20(3) = 2 20-sided die with a +3 modifier'
+
+Other formatting examples:
+  - d20(3) = Defaults to 1 20-sided die with a modifer of 3
+  - 3 = Defaults to 3 20-sided die with a modifier of 0
+  - 1d20 = Rolls 1 d20 with a modifier of 0 

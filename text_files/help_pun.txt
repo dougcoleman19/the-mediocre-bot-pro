@@ -1,0 +1,3 @@
+Description: A feature that shares a collection of fun puns.
+
+Formatting: Just simply call the pun by using the command !pun and enjoy.
